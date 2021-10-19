@@ -15,5 +15,6 @@
 8. ```npx tailwindcss-cli@latest init```
 9. ```修改 tailwind.config.js 的 purge```
 10. ```新增global.css 並在 index.js 引用```
+  
 (https://tailwindcss.com/docs/guides/create-react-app#setting-up-tailwind-css)
 
